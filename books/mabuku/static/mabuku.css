@@ -1,0 +1,14 @@
+body {
+	margin : 0;
+	padding : 0;
+	line-height : 22px;
+	font : 14px;
+	color : #505050;
+	font-weight : 400;
+	
+}
+
+h1 { 
+	background-color : blue;
+	
+}
